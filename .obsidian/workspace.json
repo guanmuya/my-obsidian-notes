@@ -11,10 +11,14 @@
             "id": "afbc5ec0fdcff803",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "面试题目/Linux/关于.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "关于"
             }
           }
         ]
@@ -188,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5bdc1044e58ae62",
+  "active": "afbc5ec0fdcff803",
   "lastOpenFiles": [
+    "面试题目/Linux/关于.md",
     "面试题目/未命名.md",
     "面试题目/网络",
     "面试题目/Linux",
