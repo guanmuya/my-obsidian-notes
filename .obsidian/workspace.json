@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题目/Linux/关于.md",
+                "file": "面试题目/Linux/基本的Linux操作指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于"
+              "title": "基本的Linux操作指令"
             }
           }
         ]
@@ -195,6 +195,7 @@
   "active": "afbc5ec0fdcff803",
   "lastOpenFiles": [
     "面试题目/Linux/关于.md",
+    "面试题目/Linux/基本的Linux操作指令.md",
     "面试题目/未命名.md",
     "面试题目/网络",
     "面试题目/Linux",
