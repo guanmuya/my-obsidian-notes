@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "560923b109a88ddf",
+        "id": "c8b9a5458eb33a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "057d42e1663cc177",
+            "id": "54a1ccfe90ed46b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试题目/Git/项目中如何使用 Git 指令.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "项目中如何使用 Git 指令"
+              "title": "新标签页"
             }
           }
         ]
@@ -193,8 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "057d42e1663cc177",
+  "active": "c5bdc1044e58ae62",
   "lastOpenFiles": [
+    "算法学习",
+    "r'c/未命名.base",
+    "r'c/未命名.canvas",
+    "面试题目/Git/项目中如何使用 Git 指令.md",
+    "日常开发",
     "面试题目/Linux/基本的Linux操作指令.md",
     "面试题目/Linux/关于.md",
     "面试题目/未命名.md",
