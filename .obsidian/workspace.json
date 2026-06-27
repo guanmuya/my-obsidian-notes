@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b9a5458eb33a9d",
+        "id": "7eb30ea38e342a74",
         "type": "tabs",
         "children": [
           {
-            "id": "54a1ccfe90ed46b0",
+            "id": "1259264a616407f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "面试题目/Git/项目中如何使用 Git 指令.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "项目中如何使用 Git 指令"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,13 +172,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a0e841c6fc9284fd",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6161073eaeeccf2c",
+  "active": "c5bdc1044e58ae62",
   "lastOpenFiles": [
+    "2026-06-28.md",
     "r'c/未命名.canvas",
     "算法学习",
     "r'c/未命名.base",
