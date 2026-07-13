@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#服务端",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa743c73a2297cfa",
+  "active": "1259264a616407f2",
   "lastOpenFiles": [
+    "mcp-servers.json",
     "日常学习内容/MCP的风险.md",
     "日常学习内容/MCP 服务端和客户端开发.md",
     "面试题目/Git/项目中如何使用 Git 指令.md",

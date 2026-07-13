@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "amap-maps": {
+      "command": "E:\\Program Files\\nodejs_24.15.0\\npx.cmd",
+      "args": [
+        "-y",
+        "@amap/amap-maps-mcp-server"
+      ],
+      "env": {
+        "AMAP_MAPS_API_KEY": "39c4830c9a91da1c9c55799e38cc508b"
+      }
+    }
+
+  }
+}
