@@ -115,3 +115,18 @@ public class YuImageSearchMcpServerApplication {
   }  
 }
 ```
+
+使用SSE的话，就先启动服务，再在主项目中的配置写好
+
+```ymal
+spring:
+  ai:
+    mcp:
+      client:
+        sse:
+          connections:
+            server1:
+              url: http://localhost:8127
+        # stdio:
+        # servers-configuration: classpath:mcp-servers.json
+```
