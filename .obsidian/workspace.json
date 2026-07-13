@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题目/Git/项目中如何使用 Git 指令.md",
+                "file": "日常学习内容/MCP的风险.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目中如何使用 Git 指令"
+              "title": "MCP的风险"
             }
           }
         ]
@@ -172,19 +172,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a0e841c6fc9284fd",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,14 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5bdc1044e58ae62",
+  "active": "6161073eaeeccf2c",
   "lastOpenFiles": [
+    "面试题目/Git/项目中如何使用 Git 指令.md",
+    "日常学习内容/MCP的风险.md",
+    "日常学习内容",
     "120AI速记",
     "2026-06-28.md",
     "r'c/未命名.canvas",
     "算法学习",
     "r'c/未命名.base",
-    "面试题目/Git/项目中如何使用 Git 指令.md",
     "日常开发",
     "面试题目/Linux/基本的Linux操作指令.md",
     "面试题目/Linux/关于.md",
@@ -220,8 +212,6 @@
     "面试题目/MYSQL",
     "面试题目/JAVA基本",
     "面试题目/面经",
-    "欢迎.md",
-    "面试题目",
-    "未命名.base"
+    "欢迎.md"
   ]
 }
