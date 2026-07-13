@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常学习内容/MCP的风险.md",
+                "file": "日常学习内容/MCP 服务端和客户端开发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP的风险"
+              "title": "MCP 服务端和客户端开发"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#服务端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "日常学习内容/MCP 服务端和客户端开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "MCP 服务端和客户端开发 的大纲"
             }
           },
           {
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6161073eaeeccf2c",
+  "active": "fa743c73a2297cfa",
   "lastOpenFiles": [
-    "面试题目/Git/项目中如何使用 Git 指令.md",
     "日常学习内容/MCP的风险.md",
+    "日常学习内容/MCP 服务端和客户端开发.md",
+    "面试题目/Git/项目中如何使用 Git 指令.md",
     "日常学习内容",
     "120AI速记",
     "2026-06-28.md",
