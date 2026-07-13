@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb30ea38e342a74",
+        "id": "3d3d4dd3cd1ff56a",
         "type": "tabs",
         "children": [
           {
-            "id": "1259264a616407f2",
+            "id": "d7dd8c967b4b0c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常学习内容/MCP 服务端和客户端开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "MCP 服务端和客户端开发 的出链列表"
             }
           },
           {
@@ -193,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1259264a616407f2",
+  "active": "d7dd8c967b4b0c30",
   "lastOpenFiles": [
-    "mcp-servers.json",
     "日常学习内容/MCP的风险.md",
     "日常学习内容/MCP 服务端和客户端开发.md",
+    "mcp-servers.json",
     "面试题目/Git/项目中如何使用 Git 指令.md",
     "日常学习内容",
     "120AI速记",
@@ -213,7 +215,6 @@
     "面试题目/Linux",
     "面试题目/MYSQL",
     "面试题目/JAVA基本",
-    "面试题目/面经",
     "欢迎.md"
   ]
 }
