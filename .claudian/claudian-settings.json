@@ -1,7 +1,7 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
-  "model": "haiku",
+  "permissionMode": "normal",
+  "model": "opus",
   "thinkingBudget": "off",
   "effortLevel": "max",
   "serviceTier": "default",
@@ -33,7 +33,7 @@
       "enableOpus1M": false,
       "enableSonnet1M": false,
       "customModels": "",
-      "lastModel": "haiku",
+      "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -80,7 +80,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "haiku",
+    "claude": "opus",
     "codex": "gpt-5.5"
   },
   "savedProviderEffort": {
@@ -92,7 +92,7 @@
   },
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo",
+    "claude": "normal",
     "codex": "yolo"
   },
   "lastCustomModel": "",
